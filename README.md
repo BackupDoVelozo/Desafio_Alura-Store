@@ -79,7 +79,3 @@ A análise é suportada por diversas visualizações, incluindo:
     *(Observação: Se estiver executando localmente, você pode precisar do `jupyter` também: `pip install jupyter`)*
 4.  Abra o notebook `AluraStoreBr.ipynb` usando Jupyter Notebook, JupyterLab, Google Colab, VS Code ou outro ambiente compatível.
 5.  Execute as células sequencialmente para reproduzir a análise e as visualizações. O notebook busca os dados diretamente das URLs de origem.
-
-## Licença
-
-[Opcional: Especifique uma licença, por exemplo, Licença MIT. Se você não tiver uma, pode omitir esta seção ou adicionar um arquivo LICENSE posteriormente.]
